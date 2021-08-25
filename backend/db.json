@@ -1,0 +1,40 @@
+{
+  "animais": [
+    {
+      "id": 1,
+      "nome": "Maionese",
+      "tipo": "Gato",
+      "raca": "Vira-lata",
+      "sexo": "M",
+      "idade": "6 Meses",
+      "condicao": "Para adoção"
+    },
+    {
+      "id": 2,
+      "nome": "Mel",
+      "tipo": "Cachoro",
+      "raca": "Poodle",
+      "sexo": "F",
+      "idade": "3 Meses",
+      "condicao": "Para adoção"
+    },
+    {
+      "nome": "Ketchup",
+      "tipo": "Cachorro",
+      "raca": "Vira-lata",
+      "sexo": "F",
+      "idade": " 3 meses",
+      "condicao": "Para adoção",
+      "id": 3
+    },
+    {
+      "nome": "Mostarda",
+      "tipo": "Gato",
+      "raca": "Vira-lata",
+      "sexo": "M",
+      "idade": "4 meses",
+      "condicao": "Para adoção",
+      "id": 4
+    }
+  ]
+}
